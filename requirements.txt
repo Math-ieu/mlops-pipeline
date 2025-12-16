@@ -1,0 +1,10 @@
+mlflow
+torch
+torchvision
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+tensorboard
