@@ -8,3 +8,12 @@ matplotlib
 seaborn
 jupyter
 tensorboard
+
+# Hyperparameter tuning
+optuna
+plotly
+kaleido
+
+# GPU monitoring
+nvidia-ml-py3
+psutil
